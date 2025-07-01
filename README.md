@@ -38,31 +38,31 @@ A versatile waveform generator capable of producing triangular and square wave s
 
 ## 📐 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](Pics/123.jpg)
 
 ## 📊 Breadboard Implemetation
 
-
+![Breadboard Implementation](Pics/breadboard implemetation (1).jpg)
 
 
 
 ## 📈 Test Results
 
 ### Waveform Examples
-![Waveform 1](images/waveform_outputs/12v_2153hz_50duty.png)
+![Waveform 1](Pics/f1.jpg)
 *12V p-p, 2.153 kHz, 50% duty cycle*
 
-![Waveform 2](images/waveform_outputs/12v_6472hz_50duty.png)
+![Waveform 2](Pics/f2.jpg)
 *12V p-p, 6.472 kHz, 50% duty cycle*
 
-![Waveform 3](images/waveform_outputs/12v_2358hz_20duty.png)
+![Waveform 3](Pics/f3.jpg)
 *12V p-p, 2.358 kHz, 20% duty cycle*
 
-![Waveform 4](images/waveform_outputs/2v_2227hz_50duty.png)
+![Waveform 4](Pics/f4.jpg)
 *2V p-p, 2.227 kHz, 50% duty cycle*
 
 ### Frequency Response
-![THD vs Frequency](images/thd_frequency_response.png)
+![THD vs Frequency](Pics/Figure_1.png)
 
 Excellent performance across the tested frequency range with minimal distortion increase at very high frequencies (MHz range).
 
