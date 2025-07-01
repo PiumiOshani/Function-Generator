@@ -7,7 +7,7 @@ A versatile waveform generator capable of producing triangular and square wave s
 - **Dual Waveform Output**: Simultaneous generation of triangular and square waves
 - **Adjustable Parameters**: 
   - Variable frequency control
-  - Duty cycle adjustment (demonstrated: 20%, 50%)
+  - Duty cycle adjustment 
   - Amplitude control (2V to 12V peak-to-peak)
 - **Class AB Power Amplifier**: Drives loads up to 8Ω with minimal distortion
 - **High Efficiency**: 67.7% power efficiency
@@ -18,7 +18,7 @@ A versatile waveform generator capable of producing triangular and square wave s
 
 | Parameter | Value |
 |-----------|-------|
-| **Frequency Range** | 1 kHz - 1 MHz (tested) |
+| **Frequency Range** | 1 kHz - 10 kHz |
 | **Amplitude Range** | 2V - 12V peak-to-peak |
 | **Efficiency** | 67.7% |
 
