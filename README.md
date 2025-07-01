@@ -42,25 +42,19 @@ A versatile waveform generator capable of producing triangular and square wave s
 
 ## 📊 Breadboard Implemetation
 
-![Breadboard Implementation](Pics/breadboard implemetation (1).jpg)
+![Breadboard Implementation](Pics/breadboard%20implemetation%20(1).jpg)
 
 
 
 ## 📈 Test Results
 
 ### Waveform Examples
-![Waveform 1](Pics/f1.jpg)//
-*12V p-p, 2.153 kHz, 50% duty cycle*
+![Waveform 1](Pics/f1.jpg)
+![Waveform 2](Pics/f2.jpg)
 
-![Waveform 2](Pics/f2.jpg)//
-*12V p-p, 6.472 kHz, 50% duty cycle*
+![Waveform 3](Pics/f3.jpg)
 
-![Waveform 3](Pics/f3.jpg)//
-*12V p-p, 2.358 kHz, 20% duty cycle*
-
-![Waveform 4](Pics/f4.jpg)//
-*2V p-p, 2.227 kHz, 50% duty cycle*
-
+![Waveform 4](Pics/f4.jpg)
 
 
 ## 🚧 Design Challenges & Solutions
