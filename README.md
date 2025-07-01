@@ -49,22 +49,19 @@ A versatile waveform generator capable of producing triangular and square wave s
 ## 📈 Test Results
 
 ### Waveform Examples
-![Waveform 1](Pics/f1.jpg)
+![Waveform 1](Pics/f1.jpg)//
 *12V p-p, 2.153 kHz, 50% duty cycle*
 
-![Waveform 2](Pics/f2.jpg)
+![Waveform 2](Pics/f2.jpg)//
 *12V p-p, 6.472 kHz, 50% duty cycle*
 
-![Waveform 3](Pics/f3.jpg)
+![Waveform 3](Pics/f3.jpg)//
 *12V p-p, 2.358 kHz, 20% duty cycle*
 
-![Waveform 4](Pics/f4.jpg)
+![Waveform 4](Pics/f4.jpg)//
 *2V p-p, 2.227 kHz, 50% duty cycle*
 
-### Frequency Response
-![THD vs Frequency](Pics/Figure_1.png)
 
-Excellent performance across the tested frequency range with minimal distortion increase at very high frequencies (MHz range).
 
 ## 🚧 Design Challenges & Solutions
 
@@ -81,7 +78,7 @@ Excellent performance across the tested frequency range with minimal distortion 
 4. **Enhanced Decoupling**: Additional capacitors for power supply stability
 
 
-## 📊 Improved Circuit Diagram
+
 
 
 ## 📚 Applications
